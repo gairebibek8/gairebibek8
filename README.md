@@ -6,7 +6,7 @@
   
 **👨‍🎓 Education**
 - Bachelor of Science in Computer Science - Fisk University (Nashville, TN)
-  - Expected Graduation: December 2024 | GPA: 3.74/4.0
+  - Graduation: December 2024 | GPA: 3.76/4.0
   - Relevant Courses: Software Development Studio, Product Management, Data Structures, Operating Systems, and Machine Learning
 
 **💻 Skills**
